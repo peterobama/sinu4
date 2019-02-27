@@ -1,5 +1,16 @@
 
-
+#wrapper {
+  height:300px;
+}
+.man {
+  background: url("http://miladheydari.ir/images/codepen/man.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+  height: 100%;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 166px;
+  z-index: 9999;
+}
 
 
 #container {
